@@ -6,7 +6,7 @@
 
 Repository for the empirical experiment presented in the paper:
 
-> **"TOON as a Replacement for JSON in Artificial Intelligence Projects for Token Usage Optimization"**  
+> **"TOON as a Replacement for JSON in Artificial Intelligence Projects to Optimize Token Usage"**  
 
 This experiment compares token consumption between JSON and TOON (Token-Optimized Object Notation) across 500 instances distributed over five AI use-case categories, using `llama3.1:8b` running locally via Ollama — no external API or paid service required.
 
